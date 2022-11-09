@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-express-on-aws-ec2",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.1",
+        "killall": "^1.0.4",
+        "lsof": "^0.1.0",
+        "mongoose": "^6.7.2",
+        "nodemon": "^2.0.20"
+    }
+}
